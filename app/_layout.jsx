@@ -5,10 +5,8 @@ import { useEffect } from "react";
 const InitialLayout = () => {
     const {session, initialized} = useAuth();
     const segments = useSegments();
-    console.log('segment => ', segments)
 
     const router = useRouter();
-    // console.log('router => ', router);
 
     useEffect(() => {
         if(!initialized) return;
@@ -23,14 +21,25 @@ const InitialLayout = () => {
 
 
 
-    return (<Slot />)
+    return (
+        <Stack
+        screenOptions={{
+            headerShown: false
+        }}
+        >
+            <Stack.Screen name="index" />
+            <Stack.Screen name="details" />
+            <Stack.Screen name="(tech)" />
+            <Stack.Screen name="+not-found" />
+        </Stack>
+    )
 }
 
 export default function RootLayout() {
 
     return (
         <AuthProvider>
-            {/* <Stack>
+             {/* <Stack>
                 <Stack.Screen name="index" />
                 <Stack.Screen name="details" options={{
                     headerShown: false
@@ -41,9 +50,11 @@ export default function RootLayout() {
                 <Stack.Screen name="(commercial)" options={{
                     headerShown: false
                 }} />
-            </Stack> */}
+            </Stack>  */}
             <InitialLayout />
         </AuthProvider>
+
+  
 
     )
 }

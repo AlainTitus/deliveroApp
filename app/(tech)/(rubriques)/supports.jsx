@@ -1,5 +1,6 @@
+import 'react-native-gesture-handler'
 import 'react-native-get-random-values'
-import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Image, RefreshControl, Alert } from 'react-native'
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Image, RefreshControl, Alert, Dimensions } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import { departs } from '../../../datas/labels'
 import FontAwesome from '@expo/vector-icons/FontAwesome';
@@ -9,15 +10,13 @@ import { useRouter, useNavigation } from 'expo-router';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import AntDesign from '@expo/vector-icons/AntDesign';
 import { supabase } from '../../../utils/supabase'
-import { BarChart, ProgressChart } from 'react-native-chart-kit';
-import { Dimensions } from "react-native";
+import { BarChart} from 'react-native-chart-kit';
 import { nbrSupGIS, nbrSupDepart, nbrCollectDepart } from '../../../utils/getSupabase';
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import Fontisto from '@expo/vector-icons/Fontisto';
 import { useAuth } from '../../../provider/AuthProvider';
 import * as FileSystem from 'expo-file-system';
 import { decode } from 'base64-arraybuffer';
-import { v4 as uuidv4 } from 'uuid'
 
 
 const screenWidth = Dimensions.get("window").width;
@@ -29,17 +28,6 @@ const chartConfig = {
     color: (opacity = 0.2) => `#ebf5fb`,
     strokeWidth: 1, // optional, default 3
     barPercentage: 0.5,
-    useShadowColorFromDataset: false // optional
-};
-
-const chartConfigProgress = {
-    backgroundGradientFrom: "#1a5276",
-    backgroundGradientFromOpacity: 0.9,
-    backgroundGradientTo: "#1a5276",
-    backgroundGradientToOpacity: 1,
-    color: (opacity = 0.2) => `rgba(244, 208, 63, 0.4)`,
-    strokeWidth: 1, // optional, default 3
-    barPercentage: 0.3,
     useShadowColorFromDataset: false // optional
 };
 
@@ -108,12 +96,12 @@ export default function Supports() {
         for (var i = 0; i < nbr; i++) {
             const { data, error } = await supabase.from('supportCollected').insert([store[i]]).single()
             if (error) {
-                console.log("Erreur en ajoutant une donnée")
+                // console.log("Erreur en ajoutant une donnée")
                 return;
             }
             let nbrUri = store[i].uri.length
-            console.log("store => ", store)
-            console.log('nbruri =>', nbrUri)
+            // console.log("store => ", store)
+            // console.log('nbruri =>', nbrUri)
             let img = store[i].uri
             for (var j = 0; j < nbrUri; j++) {
                 const base64 = await FileSystem.readAsStringAsync(img[j].uri, { encoding: 'base64' });
@@ -123,7 +111,7 @@ export default function Supports() {
                 await supabase.storage.from('image.supports').upload(filePath, decode(base64), { contentType });
             }
         }
-        console.log("Données ajoutées avec succès")
+        // console.log("Données ajoutées avec succès")
         setStore([])
         await AsyncStorage.removeItem("capture")
     }
@@ -159,19 +147,6 @@ export default function Supports() {
        updateDataGraph()
     }, [])
 
-    // const downloadData = async () => {
-    //     const { data, error } = await supabase.from('supportCollected').select()
-    //     if (error) {
-    //         console.log("Erreur de lecture de la base de données")
-    //         return;
-    //     }
-    //     console.log("data => ", data.length)
-    //     setGetData([...data])
-    // }
-
-    // useEffect(() => {
-    //     downloadData()
-    // }, [])
 
     return (
         <View style={styles.container}>
@@ -181,7 +156,7 @@ export default function Supports() {
                 }
             >
                 <View style={styles.headerBlock}>
-                    {/* <Text style={styles.headerText}>Collecte des supports MT</Text> */}
+                   
                     <Text style={styles.title}>Supports par départs</Text>
                     <ScrollView
                         horizontal
@@ -303,9 +278,9 @@ export default function Supports() {
 
                 <View style={{ marginTop: 10, paddingVertical: 5 }}>
                     <View style={styles.titreGIS}>
-                        <Text style={styles.textGIS}>Statistiques sur les collectes ({sumCollecte})</Text>
+                        <Text style={styles.textGIS}>Statistiques sur les collectes - {sumCollecte} </Text>
                         <Fontisto name="mobile-alt" size={24} color="white" />
-                    </View>
+                    </View> 
                     <BarChart
                         data={data}
                         width={screenWidth}
@@ -318,13 +293,13 @@ export default function Supports() {
                         showValuesOnTopOfBars={true}
                     />
                 </View>
-
-
             </ScrollView>
-
         </View>
     )
 }
+
+
+
 
 const styles = StyleSheet.create({
     container: {

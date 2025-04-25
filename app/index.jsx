@@ -4,12 +4,18 @@ import { Link } from 'expo-router'
 import AsyncStorage from '@react-native-async-storage/async-storage'
 import Spinner from 'react-native-loading-spinner-overlay'
 import { supabase } from '../utils/supabase'
+import { useRouter } from 'expo-router'
 
 
 export default function Index() {
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('')
     const [loading, setLoading] = useState(false)
+
+    const router = useRouter()
+    const handleDetail = () => {
+        router.push("/details")
+    }
 
     const onSignInPress = async () => {
         setLoading(true)
@@ -43,11 +49,24 @@ export default function Index() {
             <TouchableOpacity onPress={onSignInPress} style={styles.button}>
                 <Text style={{ color: '#fff', fontSize: 16 }} > Sign In </Text>
             </TouchableOpacity>
-            {/* <TouchableOpacity onPress={onSignUpPress} style={styles.btnSignUp}>
+            <TouchableOpacity onPress={onSignUpPress} style={styles.btnSignUp}>
                 <Text style={{ color: '#fff', fontSize: 16 }} > Create account </Text>
-            </TouchableOpacity> */}
-
+            </TouchableOpacity>
         </View>
+        // <View>
+        //     <Text>ok</Text>
+        //     <TouchableOpacity
+        //         style={{
+        //             backgroundColor: 'yellow',
+        //             padding: 5,
+        //             width: '50%',
+        //             marginHorizontal : 'auto'
+        //         }}
+        //         onPress={handleDetail}
+        //     >
+        //         <Text style={{textAlign: 'center'}}>Detail</Text>
+        //     </TouchableOpacity>
+        // </View>
     )
 }
 

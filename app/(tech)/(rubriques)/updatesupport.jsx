@@ -114,7 +114,7 @@ export default function Updatesupport() {
             aspect: [4, 3],
             quality: 1
         })
-        console.log("newphoto => ", result)
+        // console.log("newphoto => ", result)
 
         /*** Etape2: Recuperation des uri des photos prises sur cette collecte dans un tableau d'état ****/
         if (!result.canceled) {
@@ -122,7 +122,7 @@ export default function Updatesupport() {
             let newListURIItem = [...listURIItem];
             newListURIItem.push(itemURI);
             setListURIItem([...newListURIItem])
-            console.log(newListURIItem)
+            // console.log(newListURIItem)
             Alert.alert('Photo sauvegardée avec succès!')
         } else {
             Alert.alert('Photo non sauvegardée!')
@@ -131,8 +131,8 @@ export default function Updatesupport() {
     };
 
     let validate = async () => {
-        console.log('controle des champs')
-        console.log(listURIItem)
+        // console.log('controle des champs')
+        // console.log(listURIItem)
         if(listURIItem.length === 0){
             Alert.alert('Prendre au moins une photo du support')
             return;
@@ -190,11 +190,11 @@ export default function Updatesupport() {
             return;
         }
 
-        console.log("fin controle des champs")
+        // console.log("fin controle des champs")
 
         /*** Compresser les images ***/
         let nbrURI = listURIItem.length
-        console.log(nbrURI)
+        // console.log(nbrURI)
         let compressedURI = [];
         for (var i = 0; i < nbrURI; i++) {
           const manipResult = await manipulateAsync(
@@ -239,11 +239,11 @@ export default function Updatesupport() {
             dataTransform.push(supportToSave)
             await AsyncStorage.removeItem('capture')
             await AsyncStorage.setItem('capture', JSON.stringify(dataTransform))
-            console.log('Données sauvegardées = ', dataTransform)
+            // console.log('Données sauvegardées = ', dataTransform)
         } else {
             const firstData = [supportToSave]
             await AsyncStorage.setItem('capture', JSON.stringify(firstData))
-            console.log('Premier enregistrement avec succès = ', firstData)
+            // console.log('Premier enregistrement avec succès = ', firstData)
         }
         // const { data, error } = await supabase.from('supportCollected').insert([supportToSave]).single()
         

@@ -121,10 +121,6 @@ export default function Statdepart() {
     return (
         <ScrollView style={styles.container}>
             <View style={styles.containerHead}>
-                {/* <View style={styles.bigHead}>
-                    <Text style={styles.bigTitle}>Dashboard</Text>
-                    <MaterialIcons name="space-dashboard" size={28} color="#2d0237" />
-                </View> */}
                 <View style={{ marginTop: 0 }}>
                     <Text style={{ color: '#47c7cd', fontSize: 16, fontWeight: 'bold', paddingLeft: 10 }}>Total {params.key} </Text>
                     <Text style={{ color: '#47c7cd', fontSize: 24, fontWeight: 'bold', paddingLeft: 10 }}>BOIS - {supDepart} </Text>

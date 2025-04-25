@@ -7,6 +7,7 @@ import { supabase } from '../../../utils/supabase'
 import { useAuth } from '../../../provider/AuthProvider'
 import Fontisto from '@expo/vector-icons/Fontisto';
 import Entypo from '@expo/vector-icons/Entypo';
+import * as Location from 'expo-location';
 
 const { width, height } = Dimensions.get('window')
 const radius = width * 0.15
@@ -33,7 +34,7 @@ export default function Mapcollecte() {
   }
 
   const handleUpdate = (pot) => {
-    console.log("link", pot.imglink)
+    // console.log("link", pot.imglink)
     navigation.navigate("detailSupport", {
       supbois: pot.structBois,
       hautBois: pot.hauteurBois,
@@ -59,11 +60,11 @@ export default function Mapcollecte() {
     handleUpdate(poteau)
   }
 
-  let textD32BELABO = "../../../assets/images/bouton-d32.png";
-  let textD31BATOURI = "../../../assets/images/bouton-d31.png";
-  let textD11BERTOUA = "../../../assets/images/pt_bleu2.png";
-  let textD12BERTOUA = "../../../assets/images/bouton-d12.png";
-  let textAutre = "../../../assets/images/bouton_64.png";
+  let textD32BELABO = "../../../assets/images/rond_violet.png";
+  let textD31BATOURI = "../../../assets/images/rond_vert.png";
+  let textD11BERTOUA = "../../../assets/images/rond_bleu.png";
+  let textD12BERTOUA = "../../../assets/images/rond_rose.png";
+  let textAutre = "../../../assets/images/rond_autre.png";
 
   const getSupportCollected = async () => {
     if (user) {
@@ -96,6 +97,21 @@ export default function Mapcollecte() {
     })
   }, [updateMap])
 
+      useEffect(() => {
+          async function getCurrentLocation() {
+            
+            let { status } = await Location.requestForegroundPermissionsAsync();
+            if (status !== 'granted') {
+              Alert.alert('Permission to access location was denied');
+              return;
+            }
+      
+            let location = await Location.getCurrentPositionAsync({});
+          }
+      
+          getCurrentLocation();
+        }, []);
+
   return (
     <View style={StyleSheet.container}>
       <MapView
@@ -106,8 +122,8 @@ export default function Mapcollecte() {
           longitudeDelta: 0.06
         }}
         provider={PROVIDER_GOOGLE}
-        showsUserLocation
-        showsMyLocationButton
+        showsUserLocation={true}
+        showsMyLocationButton={true}
         style={styles.map}
         onPress={handleMapPress}
       >
@@ -191,7 +207,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#0e6655',
     position: 'absolute',
     zIndex: 100,
-    bottom: 150,
+    bottom: 80  + radius + 20,
     right: 20,
     justifyContent: 'center',
     alignItems: 'center',

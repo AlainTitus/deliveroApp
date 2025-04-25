@@ -1,3 +1,4 @@
+import 'react-native-gesture-handler'
 import { View, Text, StyleSheet, Pressable, TouchableOpacity, Image, Dimensions } from 'react-native'
 import React from 'react'
 import { Link } from 'expo-router'
@@ -6,16 +7,16 @@ import { useAuth } from '../provider/AuthProvider';
 import AntDesign from '@expo/vector-icons/AntDesign';
 
 const colorSymbol = "white"
-const {width, height} = Dimensions.get('window')
+const large = Dimensions.get('window').width
 
-export default function details() {
+export default function Details() {
 
     const { signOut, session } = useAuth()
 
     return (
         <View style={styles.container}>
             <View style={styles.head}>
-                <Text style={{ fontSize: 20, fontWeight: 'bold', color: 'white' }}> Hi, Eneo</Text>
+                <Text style={{ fontSize: 20, fontWeight: 'bold', color: 'white' }}> Hi Eneo</Text>
                 <TouchableOpacity onPress={signOut} style={styles.logout}>
                     <Entypo name="log-out" size={20} color="white" />
                 </TouchableOpacity>
@@ -24,12 +25,12 @@ export default function details() {
                 <Text style={{ fontSize: 40, fontWeight: 'bold', marginTop: 8, color:'white'}}>
                     Activités techniques
                 </Text>
-                <Image source={require('../assets/images/log.png')} style={{width: width * 0.35, height: width*0.35, borderRadius: 10}} />
+                <Image source={require('../assets/images/log.png')} style={{width: large * 0.35, height: large*0.35, borderRadius: 10}} />
             </View>
 
            
             <Text style={styles.description}>
-                Cette App vous permettra de réaliser un certains nombres d'actions en rapport avec les opérations techniques de maintenance.
+                Cette App vous permettra de réaliser un certain nombre d'actions en rapport avec les opérations techniques de maintenance.
                 Il facilite l'inspection des ouvrages en offrant la possibilité de collecte avec géolocalisation des assets. La possibilité de
                 mettre à jour en temps réel ou en décalages les données sur les ouvrages inspectés et de suivre l'évolution des actions menées
                 grace à l'automatisation d'un dashboard facile à analyser.
@@ -70,27 +71,13 @@ export default function details() {
                 </Text>
             </View>
 
-            <Link href='/(tech)/(rubriques)/supports' asChild>
+            <Link href={'/(tech)/(rubriques)/supports'} asChild>
                 <TouchableOpacity style={styles.btn} >
                     <Text style={styles.texte}>
                         Let'us collecte
                     </Text>
                 </TouchableOpacity>
             </Link>
-
-            {/* <Text style={{ fontSize: 20, fontWeight: 'bold', marginTop: 18 }}> Activités Commerciales </Text>
-            <Separation />
-            <Text style={{ fontSize: 16, fontWeight: 'normal', marginTop: 6 }}>
-                Collecte des activités commerciales dans la DRE en privilegiant
-                la géolocalisation des assets
-            </Text>
-            <Link href='/(commercial)/' asChild>
-                <Pressable style={styles.btn} >
-                    <Text style={styles.texte}>
-                        Go to Com
-                    </Text>
-                </Pressable>
-            </Link> */}
         </View>
     )
 }

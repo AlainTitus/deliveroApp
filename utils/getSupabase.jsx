@@ -112,7 +112,7 @@ export let sumSupport = (value, handle) => {
 
 export let sumParHauteur = (dep, handleData, handleErrorGraph, handleLoading) => {
     let listHaut = tabStructure().haut;
-    console.log('liste des hauteurs =>', listHaut)
+  
     let nbrHaut = listHaut.length;
     let result = [];
     handleLoading(true)

@@ -1,17 +1,16 @@
 import { View, Text, ScrollView, StyleSheet } from 'react-native'
 import React from 'react'
-import { Link } from 'expo-router'
 import ItemsRubriques from '../../../components/ItemsRubriques'
 
 export default function IndexRubrique() {
   return (
-    <ScrollView style={styles.container}>
+    <View style={styles.container}>
       <Text style={styles.header}>Categories de collecte</Text>
       {/* <ItemsRubriques label={'Transformateurs'} /> */}
       <ItemsRubriques label={'Les lignes'} />
       {/* <ItemsRubriques label={'Les OCRs'} />
       <ItemsRubriques label={'La végétation'} /> */}
-    </ScrollView>
+    </View>
   )
 }
 

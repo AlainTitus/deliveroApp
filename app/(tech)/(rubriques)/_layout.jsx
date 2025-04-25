@@ -4,15 +4,11 @@ export default function LayoutRubrique() {
 
     return (
         <Stack
-        // screenOptions={{
-        //     headerShown: false
-        // }}
+        screenOptions={{
+            headerShown: true
+        }}
         >
-            <Stack.Screen name='index' />
-            <Stack.Screen name='formulaire' />
-            <Stack.Screen name='Crame' />
-            <Stack.Screen name='mesures' />
-            <Stack.Screen name='protections' />
+
             <Stack.Screen name='supports' options={{
                 title: "Collecte des supports MT",
                 headerStyle: {
