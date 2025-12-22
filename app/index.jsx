@@ -14,7 +14,7 @@ export default function Index() {
 
     const router = useRouter()
     const handleDetail = () => {
-        router.push("/details")
+        router.push("/(DrawerConnexion)/details")
     }
 
     const onSignInPress = async () => {
@@ -49,9 +49,9 @@ export default function Index() {
             <TouchableOpacity onPress={onSignInPress} style={styles.button}>
                 <Text style={{ color: '#fff', fontSize: 16 }} > Sign In </Text>
             </TouchableOpacity>
-            <TouchableOpacity onPress={onSignUpPress} style={styles.btnSignUp}>
+            {/* <TouchableOpacity onPress={onSignUpPress} style={styles.btnSignUp}>
                 <Text style={{ color: '#fff', fontSize: 16 }} > Create account </Text>
-            </TouchableOpacity>
+            </TouchableOpacity> */}
         </View>
         // <View>
         //     <Text>ok</Text>

@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "delivero-app",
-    "slug": "delivero-app",
+    "name": "collected-data",
+    "slug": "collected-data",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/log.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -13,12 +13,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/log.png",
         "backgroundColor": "#ffffff"
       },
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyA7oaSootBzpdVWI45Vl9Ma3BxxN7CGIo8"
+          "apiKey": "AIzaSyD2H_88-Ho9jX5dG-ppKc9OSCopzvnYH2U"
         }
       },
       "permissions": [
@@ -30,19 +30,19 @@
         "android.permission.CAMERA",
         "android.permission.RECORD_AUDIO"
       ],
-      "package": "com.alaintitus.deliveroapp"
+      "package": "com.nathantitus.collecteddata"
     },
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/log.png"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/log.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
@@ -71,7 +71,9 @@
           "recordAudioAndroid": true
         }
       ],
-      "expo-secure-store"
+      "expo-secure-store",
+      "expo-font",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true
@@ -81,9 +83,8 @@
         "origin": false
       },
       "eas": {
-        "projectId": "0db6d604-c879-421b-9494-dd700c8d8f45"
+        "projectId": "217900b0-7e91-4e1f-b021-6e74bfa03779"
       }
-    },
-    "owner": "alaintitus"
+    }
   }
 }

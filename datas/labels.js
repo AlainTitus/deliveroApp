@@ -229,10 +229,120 @@ export const sousRubriques = [
     // },
 ]
 
+export const etatProtectionBT = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'RAS',
+        value: 'RAS'
+    },
+    {
+        label: 'shunte',
+        value: 'shunte'
+    },
+    {
+        label: 'brule',
+        value: 'brule'
+    },
+    {
+        label: 'ouvert',
+        value: 'ouvert'
+    },
+]
+export const etatMALT = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'bon',
+        value: 'bon'
+    },
+    {
+        label: 'mauvais',
+        value: 'mauvais'
+    },
+]
+export const etatLiaisonBT = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'bon',
+        value: 'bon'
+    },
+    {
+        label: 'mauvais',
+        value: 'mauvais'
+    },
+]
+export const liasonTransfo = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: '50 mm2',
+        value: '50 mm2'
+    },
+    {
+        label: '70 mm2',
+        value: '70 mm2'
+    },
+    {
+        label: '95 mm2',
+        value: '95 mm2'
+    },
+    {
+        label: '150 mm2',
+        value: '150 mm2'
+    },
+    {
+        label: '240 mm2',
+        value: '240 mm2'
+    },
+]
+export const protectionBT = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'Aucune',
+        value: 'Aucune'
+    },
+    {
+        label: 'CCFBD',
+        value: 'CCFBD'
+    },
+    {
+        label: 'Compact',
+        value: 'Compact'
+    },
+    {
+        label: 'DHP',
+        value: 'DHP'
+    },
+    {
+        label: 'Tableau BT Type 3',
+        value: 'Tableau BT Type 3'
+    },
+    {
+        label: 'TUR 4',
+        value: 'TUR 4'
+    },
+    {
+        label: 'TUR 8',
+        value: 'TUR 8'
+    },
+]
 export const puissanceTransfo = [
     {
         label: '',
-        value: 0
+        value: ""
     },
     {
         label: '25 kVA',
@@ -335,29 +445,30 @@ export const typeSupport = [
         label: '',
         value: ''
     },
-    {
-        label: 'beton',
-        value: 'beton'
-    },
+
     {
         label: 'bois',
         value: 'bois'
     },
     {
-        label: 'piloti bois',
-        value: 'piloti bois'
-    },
-    {
-        label: 'piloti beton',
-        value: 'piloti beton'
-    },
-    {
-        label: 'niche',
-        value: 'niche'
-    },
-    {
         label: 'beton',
         value: 'beton'
+    },
+    {
+        label: 'metallique',
+        value: 'metallique'
+    },
+    {
+        label: 'pilotis bois',
+        value: 'pilotis bois'
+    },
+    {
+        label: 'pilotis beton',
+        value: 'pilotis beton'
+    },
+    {
+        label: 'Sur niche',
+        value: 'Sur niche'
     },
 ]
 
@@ -649,5 +760,183 @@ export const etatSupport = [
     {
         label: 'Critique',
         value: 'Critique'
+    },
+]
+
+// OCR
+export const etat_ocr = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'CC Shunte',
+        value: 'CC Shunte'
+    },
+    {
+        label: 'CC brule',
+        value: 'CC brule'
+    },
+    {
+        label: 'CC inexistant',
+        value: 'CC inexistant'
+    },
+    {
+        label: 'CC mal fixe',
+        value: 'CC mal fixe'
+    },
+    {
+        label: 'Amorcage avec support beton',
+        value: 'Amorcage avec support beton'
+    },
+    {
+        label: 'RAS',
+        value: 'RAS'
+    },
+]
+
+export const groupe_ocr = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'artere principale',
+        value: 'artere principale'
+    },
+    {
+        label: 'derivation',
+        value: 'derivation'
+    },
+    {
+        label: 'RAS',
+        value: 'RAS'
+    },
+]
+
+export const type_ocr = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'Triphase',
+        value: 'Triphase'
+    },
+    {
+        label: 'Monophase',
+        value: 'Monophase'
+    },
+    {
+        label: 'RAS',
+        value: 'RAS'
+    },
+]
+
+export const connecteur_ocr = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'connecteur a anneau',
+        value: 'connecteur a anneau'
+    },
+    {
+        label: 'bloc dedoublement',
+        value: 'bloc dedoublement'
+    },
+    {
+        label: 'RAS',
+        value: 'RAS'
+    },
+]
+
+/******IACM ********/
+export const type_iacm = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'ligne',
+        value: 'ligne'
+    },
+    {
+        label: 'grappe',
+        value: 'grappe'
+    },
+    {
+        label: 'poste',
+        value: 'poste'
+    },
+]
+
+export const type_support_iacm = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'bois',
+        value: 'bois'
+    },
+    {
+        label: 'beton',
+        value: 'beton'
+    },
+    {
+        label: 'metallique',
+        value: 'metallique'
+    },
+]
+
+export const malt_iacm = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'oui',
+        value: 'oui'
+    },
+    {
+        label: 'non',
+        value: 'non'
+    },
+]
+
+export const defectuosite_iacm = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'ras',
+        value: 'ras'
+    },
+    {
+        label: 'fouet ponte',
+        value: 'fouet ponte'
+    },
+    {
+        label: 'tringlerie defectueuse',
+        value: 'tringlerie defectueuse'
+    },
+
+]
+
+export const iacm_operationnel = [
+    {
+        label: '',
+        value: ''
+    },
+    {
+        label: 'oui',
+        value: 'oui'
+    },
+    {
+        label: 'non',
+        value: 'non'
     },
 ]

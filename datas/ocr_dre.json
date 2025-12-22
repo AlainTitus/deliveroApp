@@ -1,0 +1,3530 @@
+[
+ {
+  "N": 1,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Nkolbikon 1",
+  "longitude": "13.66042839",
+  "latitude": "4.57332689"
+ },
+ {
+  "N": 2,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.66792770",
+  "latitude": "4.59648736"
+ },
+ {
+  "N": 3,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.67290167",
+  "latitude": "4.61385333"
+ },
+ {
+  "N": 4,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Bertoua 2",
+  "longitude": "13.68404588",
+  "latitude": "4.56685022"
+ },
+ {
+  "N": 5,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Pharmacie Galien",
+  "longitude": "13.68620040",
+  "latitude": "4.57753009"
+ },
+ {
+  "N": 6,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "centrale bertoua",
+  "longitude": "13.67290429",
+  "latitude": "4.61399715"
+ },
+ {
+  "N": 7,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Emama",
+  "longitude": "13.65871276",
+  "latitude": "4.57246780"
+ },
+ {
+  "N": 8,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "mairie bert 1",
+  "longitude": "13.65946227",
+  "latitude": "4.57247388"
+ },
+ {
+  "N": 9,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Nkolbikon",
+  "longitude": "13.66121703",
+  "latitude": "4.57338637"
+ },
+ {
+  "N": 10,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Tyoro",
+  "longitude": "13.66563440",
+  "latitude": "4.57302717"
+ },
+ {
+  "N": 11,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Terrestra nkolbikon",
+  "longitude": "13.66509761",
+  "latitude": "4.57463045"
+ },
+ {
+  "N": 12,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "entre antenne relais crtv",
+  "longitude": "13.66881556",
+  "latitude": "4.57545552"
+ },
+ {
+  "N": 13,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "nkolbikon antenne relais crtv",
+  "longitude": "13.66421230",
+  "latitude": "4.58075108"
+ },
+ {
+  "N": 14,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Himalaya",
+  "longitude": "13.66573122",
+  "latitude": "4.58063371"
+ },
+ {
+  "N": 15,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "nyamganza",
+  "longitude": "13.67049092",
+  "latitude": "4.56923623"
+ },
+ {
+  "N": 16,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "bon blanc",
+  "longitude": "13.67258036",
+  "latitude": "4.57399339"
+ },
+ {
+  "N": 17,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "face a face",
+  "longitude": "13.67705499",
+  "latitude": "4.57454298"
+ },
+ {
+  "N": 18,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "mirage",
+  "longitude": "13.67508556",
+  "latitude": "4.57490900"
+ },
+ {
+  "N": 19,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "africa auberge",
+  "longitude": "13.68078351",
+  "latitude": "4.57374087"
+ },
+ {
+  "N": 20,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "complexe sportif",
+  "longitude": "13.67969830",
+  "latitude": "4.57068468"
+ },
+ {
+  "N": 21,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "elevage",
+  "longitude": "13.68112862",
+  "latitude": "4.57256793"
+ },
+ {
+  "N": 22,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "haoussa",
+  "longitude": "13.68358163",
+  "latitude": "4.56721757"
+ },
+ {
+  "N": 23,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "tigaza",
+  "longitude": "13.67534157",
+  "latitude": "4.56408507"
+ },
+ {
+  "N": 24,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "tigaza",
+  "longitude": "13.67998009",
+  "latitude": "4.56787592"
+ },
+ {
+  "N": 25,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "bodobo service du gouverneur",
+  "longitude": "13.68262353",
+  "latitude": "4.57593263"
+ },
+ {
+  "N": 26,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Bodomo",
+  "longitude": "13.68035732",
+  "latitude": "4.57679496"
+ },
+ {
+  "N": 27,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Gendarmerie",
+  "longitude": "13.68562290",
+  "latitude": "4.57795485"
+ },
+ {
+  "N": 28,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "camtel",
+  "longitude": "13.68483270",
+  "latitude": "4.57723475"
+ },
+ {
+  "N": 29,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "IACM de bouglage Yademe",
+  "longitude": "13.68943100",
+  "latitude": "4.57779985"
+ },
+ {
+  "N": 30,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "eyadema",
+  "longitude": "13.68575392",
+  "latitude": "4.57584696"
+ },
+ {
+  "N": 31,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Garnaison",
+  "longitude": "13.67584341",
+  "latitude": "4.58042927"
+ },
+ {
+  "N": 32,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "crtv",
+  "longitude": "13.67584347",
+  "latitude": "4.57940137"
+ },
+ {
+  "N": 33,
+  "type_ocr": "CC",
+  "depart": "D12 BERTOUA",
+  "nom": "tigaza",
+  "longitude": "13.67890902",
+  "latitude": "4.57089322"
+ },
+ {
+  "N": 34,
+  "type_ocr": "CC",
+  "depart": "D12 BERTOUA",
+  "nom": "quartier DABADI",
+  "longitude": "13.64776835",
+  "latitude": "4.56493361"
+ },
+ {
+  "N": 35,
+  "type_ocr": "CC",
+  "depart": "D12 BERTOUA",
+  "nom": "bertoua 2 chefferie",
+  "longitude": "13.68748500",
+  "latitude": "4.55827167"
+ },
+ {
+  "N": 36,
+  "type_ocr": "CC",
+  "depart": "D12 BERTOUA",
+  "nom": "CARF IMM.DABADI",
+  "longitude": "13.68114035",
+  "latitude": "4.57568362"
+ },
+ {
+  "N": 37,
+  "type_ocr": "CC",
+  "depart": "D12 BERTOUA",
+  "nom": "MARCH 1",
+  "longitude": "13.68648743",
+  "latitude": "4.57415459"
+ },
+ {
+  "N": 38,
+  "type_ocr": "CC",
+  "depart": "D12 BERTOUA",
+  "nom": "madagascar",
+  "longitude": "13.64816170",
+  "latitude": "4.56503120"
+ },
+ {
+  "N": 39,
+  "type_ocr": "CC",
+  "depart": "D12 BERTOUA",
+  "nom": "nkolbikon 2",
+  "longitude": "13.66817120",
+  "latitude": "4.57436884"
+ },
+ {
+  "N": 40,
+  "type_ocr": "CC",
+  "depart": "D12 BERTOUA",
+  "nom": "africa auberge",
+  "longitude": "13.68074257",
+  "latitude": "4.57340298"
+ },
+ {
+  "N": 41,
+  "type_ocr": "CC",
+  "depart": "D12 BERTOUA",
+  "nom": "haoussa",
+  "longitude": "13.68399643",
+  "latitude": "4.56724797"
+ },
+ {
+  "N": 42,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "SOCAPEC",
+  "longitude": "13.74941598",
+  "latitude": "4.59452352"
+ },
+ {
+  "N": 43,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "Daliguene",
+  "longitude": "14.16677705",
+  "latitude": "4.43305985"
+ },
+ {
+  "N": 44,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "Hotel Sylviane",
+  "longitude": "14.37525111",
+  "latitude": "4.45346773"
+ },
+ {
+  "N": 45,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "IHS Mandjou",
+  "longitude": "13.73585523",
+  "latitude": "4.59023735"
+ },
+ {
+  "N": 46,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Bindja",
+  "longitude": "13.74570365",
+  "latitude": "4.58792676"
+ },
+ {
+  "N": 47,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Fio",
+  "longitude": "13.97216435",
+  "latitude": "4.50104248"
+ },
+ {
+  "N": 48,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Derivation mokolo",
+  "longitude": "14.36528790",
+  "latitude": "4.43408156"
+ },
+ {
+  "N": 49,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "IHS BAKOMBO",
+  "longitude": "14.23086811",
+  "latitude": "4.40439782"
+ },
+ {
+  "N": 50,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Trypano",
+  "longitude": "14.36627602",
+  "latitude": "4.43793775"
+ },
+ {
+  "N": 51,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "Bouam  Belabo",
+  "longitude": "13.42995667",
+  "latitude": "4.58358500"
+ },
+ {
+  "N": 52,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "entree ville nguelenedouka",
+  "longitude": "12.92463801",
+  "latitude": "4.39748632"
+ },
+ {
+  "N": 53,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "Ngelemendouka",
+  "longitude": "13.01873333",
+  "latitude": "4.60278333"
+ },
+ {
+  "N": 54,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.65157887",
+  "latitude": "4.57374024"
+ },
+ {
+  "N": 55,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "Soeur Ndoumbi",
+  "longitude": "13.56538558",
+  "latitude": "4.56181594"
+ },
+ {
+  "N": 56,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.55888834",
+  "latitude": "4.56190425"
+ },
+ {
+  "N": 57,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Minkolong",
+  "longitude": "13.28234645",
+  "latitude": "4.56978400"
+ },
+ {
+  "N": 58,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Dongo",
+  "longitude": "13.40704046",
+  "latitude": "4.71100315"
+ },
+ {
+  "N": 59,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Ekak",
+  "longitude": "12.85781204",
+  "latitude": "4.54828969"
+ },
+ {
+  "N": 60,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Nio 2",
+  "longitude": "12.88416955",
+  "latitude": "4.56110757"
+ },
+ {
+  "N": 61,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.63820737",
+  "latitude": "4.56005387"
+ },
+ {
+  "N": 62,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Bonis",
+  "longitude": "13.60462708",
+  "latitude": "4.55995494"
+ },
+ {
+  "N": 63,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "BODOMO",
+  "longitude": "13.66706011",
+  "latitude": "4.59732023"
+ },
+ {
+  "N": 64,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "Centrale thermique bertoua",
+  "longitude": "13.67283898",
+  "latitude": "4.61413174"
+ },
+ {
+  "N": 65,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.67214320",
+  "latitude": "4.58717860"
+ },
+ {
+  "N": 66,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.66866582",
+  "latitude": "4.59555345"
+ },
+ {
+  "N": 67,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Hopital de reference",
+  "longitude": "13.67233692",
+  "latitude": "4.58461937"
+ },
+ {
+  "N": 68,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Logement sociaux",
+  "longitude": "13.67224910",
+  "latitude": "4.58576395"
+ },
+ {
+  "N": 69,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "DABADI",
+  "longitude": "13.64776838",
+  "latitude": "4.56528821"
+ },
+ {
+  "N": 70,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Soacam",
+  "longitude": "13.65197836",
+  "latitude": "4.56747049"
+ },
+ {
+  "N": 71,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "SCTW",
+  "longitude": "13.64473755",
+  "latitude": "4.55609117"
+ },
+ {
+  "N": 72,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Zone magzi koume",
+  "longitude": "13.64401290",
+  "latitude": "4.56109511"
+ },
+ {
+  "N": 73,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "CMCI poste",
+  "longitude": "13.63266916",
+  "latitude": "4.56225763"
+ },
+ {
+  "N": 74,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "CMCI",
+  "longitude": "13.64229359",
+  "latitude": "4.56297575"
+ },
+ {
+  "N": 75,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Antenne IHS",
+  "longitude": "13.66799880",
+  "latitude": "4.57978390"
+ },
+ {
+  "N": 76,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "HCR",
+  "longitude": "13.66860278",
+  "latitude": "4.57414910"
+ },
+ {
+  "N": 77,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "Immeuble kapi",
+  "longitude": "13.66958077",
+  "latitude": "4.57468892"
+ },
+ {
+  "N": 78,
+  "type_ocr": "IACM",
+  "depart": "D12 BERTOUA",
+  "nom": "MINSEC",
+  "longitude": "13.67915763",
+  "latitude": "4.57729487"
+ },
+ {
+  "N": 79,
+  "type_ocr": "CC",
+  "depart": "D12 BERTOUA",
+  "nom": "Derivation bodomo",
+  "longitude": "13.68160838",
+  "latitude": "4.57467583"
+ },
+ {
+  "N": 80,
+  "type_ocr": "PMR",
+  "depart": "D31 BATOURI",
+  "nom": "Mandjou",
+  "longitude": "13.75960490",
+  "latitude": "4.58163687"
+ },
+ {
+  "N": 81,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "Gadji",
+  "longitude": "14.05333000",
+  "latitude": "4.48329167"
+ },
+ {
+  "N": 82,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "Bazzama",
+  "longitude": "13.91760388",
+  "latitude": "4.52807981"
+ },
+ {
+  "N": 83,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "Mandjou",
+  "longitude": "13.74825167",
+  "latitude": "4.58686167"
+ },
+ {
+  "N": 84,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "nguelemedouka",
+  "longitude": "12.93139333",
+  "latitude": "4.38466333"
+ },
+ {
+  "N": 85,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "nguelemedouka",
+  "longitude": "12.92424500",
+  "latitude": "4.39168833"
+ },
+ {
+  "N": 86,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "nguelemedouka; lycee classic",
+  "longitude": "12.91883981",
+  "latitude": "4.39118156"
+ },
+ {
+  "N": 87,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "weah",
+  "longitude": "12.99702832",
+  "latitude": "4.49525586"
+ },
+ {
+  "N": 88,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "Mandjou(Bindja)",
+  "longitude": "13.74567500",
+  "latitude": "4.58846167"
+ },
+ {
+  "N": 89,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "lycee de batouri",
+  "longitude": "14.35991382",
+  "latitude": "4.42621520"
+ },
+ {
+  "N": 90,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "Administratif",
+  "longitude": "14.36065901",
+  "latitude": "4.42506511"
+ },
+ {
+  "N": 91,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "Bodossi",
+  "longitude": "14.36172643",
+  "latitude": "4.43550617"
+ },
+ {
+  "N": 92,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "bary",
+  "longitude": "14.36003527",
+  "latitude": "4.43260851"
+ },
+ {
+  "N": 93,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "marche",
+  "longitude": "14.36498876",
+  "latitude": "4.43402616"
+ },
+ {
+  "N": 94,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "mokolo",
+  "longitude": "14.36693833",
+  "latitude": "4.43232833"
+ },
+ {
+  "N": 95,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "mokolo",
+  "longitude": "14.36737785",
+  "latitude": "4.43285928"
+ },
+ {
+  "N": 96,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "ptt",
+  "longitude": "14.36565833",
+  "latitude": "4.43648833"
+ },
+ {
+  "N": 97,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "gare routiere",
+  "longitude": "14.36431500",
+  "latitude": "4.43570667"
+ },
+ {
+  "N": 98,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "trypano",
+  "longitude": "14.36878632",
+  "latitude": "4.44619889"
+ },
+ {
+  "N": 99,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "Asecna",
+  "longitude": "14.36633333",
+  "latitude": "4.45755500"
+ },
+ {
+  "N": 100,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "CTC",
+  "longitude": "14.36690167",
+  "latitude": "4.45692667"
+ },
+ {
+  "N": 101,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "zambo chateau",
+  "longitude": "14.34808333",
+  "latitude": "4.43121333"
+ },
+ {
+  "N": 102,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "entree ville",
+  "longitude": "14.35622500",
+  "latitude": "4.43043333"
+ },
+ {
+  "N": 103,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "CDE 2",
+  "longitude": "14.32626086",
+  "latitude": "4.42444672"
+ },
+ {
+  "N": 104,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "bakombo",
+  "longitude": "14.24136838",
+  "latitude": "4.40948687"
+ },
+ {
+  "N": 105,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Bangou",
+  "longitude": "14.15443129",
+  "latitude": "4.44957235"
+ },
+ {
+  "N": 106,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "14.16968166",
+  "latitude": "4.43174333"
+ },
+ {
+  "N": 107,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "TIKONDI 1",
+  "longitude": "14.13036500",
+  "latitude": "4.46431167"
+ },
+ {
+  "N": 108,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "14.14155667",
+  "latitude": "4.46201333"
+ },
+ {
+  "N": 109,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "14.11225000",
+  "latitude": "4.46394333"
+ },
+ {
+  "N": 110,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "14.12732856",
+  "latitude": "4.46495139"
+ },
+ {
+  "N": 111,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "14.05286667",
+  "latitude": "4.48311667"
+ },
+ {
+  "N": 112,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.97692207",
+  "latitude": "4.50444105"
+ },
+ {
+  "N": 113,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.97510333",
+  "latitude": "4.50016833"
+ },
+ {
+  "N": 114,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "touki",
+  "longitude": "13.95069333",
+  "latitude": "4.50906500"
+ },
+ {
+  "N": 115,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.82888333",
+  "latitude": "4.56546833"
+ },
+ {
+  "N": 116,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "bazzama",
+  "longitude": "13.88823500",
+  "latitude": "4.53999667"
+ },
+ {
+  "N": 117,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Sambi",
+  "longitude": "13.79072891",
+  "latitude": "4.56986349"
+ },
+ {
+  "N": 118,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Bocom mandjou",
+  "longitude": "13.74329833",
+  "latitude": "4.59083333"
+ },
+ {
+  "N": 119,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.81227513",
+  "latitude": "4.69376647"
+ },
+ {
+  "N": 120,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.79341500",
+  "latitude": "4.66403667"
+ },
+ {
+  "N": 121,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "mbakombo",
+  "longitude": "13.70655523",
+  "latitude": "4.62955524"
+ },
+ {
+  "N": 122,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "mbakombo",
+  "longitude": "13.70497370",
+  "latitude": "4.62550129"
+ },
+ {
+  "N": 123,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "12.96425667",
+  "latitude": "4.35513333"
+ },
+ {
+  "N": 124,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "gbakombo",
+  "longitude": "13.72794167",
+  "latitude": "4.65030000"
+ },
+ {
+  "N": 125,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "nguelemedouka",
+  "longitude": "12.92943707",
+  "latitude": "4.37450967"
+ },
+ {
+  "N": 126,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "nguele",
+  "longitude": "12.93350109",
+  "latitude": "4.38126769"
+ },
+ {
+  "N": 127,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "nguelemedouka",
+  "longitude": "12.92961032",
+  "latitude": "4.37300522"
+ },
+ {
+  "N": 128,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "nguelemedouka",
+  "longitude": "12.91903337",
+  "latitude": "4.39093032"
+ },
+ {
+  "N": 129,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.01180565",
+  "latitude": "4.56278009"
+ },
+ {
+  "N": 130,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.03840474",
+  "latitude": "4.54470806"
+ },
+ {
+  "N": 131,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.03288537",
+  "latitude": "4.55093976"
+ },
+ {
+  "N": 132,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.07055553",
+  "latitude": "4.50823723"
+ },
+ {
+  "N": 133,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.06849528",
+  "latitude": "4.51412831"
+ },
+ {
+  "N": 134,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.06749342",
+  "latitude": "4.49676560"
+ },
+ {
+  "N": 135,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Kano",
+  "longitude": "13.72788946",
+  "latitude": "4.58821689"
+ },
+ {
+  "N": 136,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "13.77851541",
+  "latitude": "4.63575636"
+ },
+ {
+  "N": 137,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Pesage mandjou",
+  "longitude": "13.73403080",
+  "latitude": "4.58952223"
+ },
+ {
+  "N": 138,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "14.36209756",
+  "latitude": "4.42341377"
+ },
+ {
+  "N": 139,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "14.13036612",
+  "latitude": "4.46432468"
+ },
+ {
+  "N": 140,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Mandjou",
+  "longitude": "13.74531686",
+  "latitude": "4.59336561"
+ },
+ {
+  "N": 141,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Gbakombo",
+  "longitude": "13.68669496",
+  "latitude": "4.60947829"
+ },
+ {
+  "N": 142,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Mandjou",
+  "longitude": "13.74802167",
+  "latitude": "4.59378833"
+ },
+ {
+  "N": 143,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Mandjou",
+  "longitude": "13.74812833",
+  "latitude": "4.59355333"
+ },
+ {
+  "N": 144,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Ngoutou",
+  "longitude": "14.13226667",
+  "latitude": "4.34281667"
+ },
+ {
+  "N": 145,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "MDembo",
+  "longitude": "13.86029935",
+  "latitude": "4.54923187"
+ },
+ {
+  "N": 146,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Nguelebok gendarmerie",
+  "longitude": "14.04965500",
+  "latitude": "4.27205500"
+ },
+ {
+  "N": 147,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Bytamien",
+  "longitude": "14.07293333",
+  "latitude": "4.30554667"
+ },
+ {
+  "N": 148,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Dimako 2",
+  "longitude": "14.14943500",
+  "latitude": "4.35210167"
+ },
+ {
+  "N": 149,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Kambamieri",
+  "longitude": "13.96970000",
+  "latitude": "4.24041667"
+ },
+ {
+  "N": 150,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "mongonam",
+  "longitude": "14.36468477",
+  "latitude": "4.41887462"
+ },
+ {
+  "N": 151,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "bodossi",
+  "longitude": "14.36111766",
+  "latitude": "4.43818063"
+ },
+ {
+  "N": 152,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Green oil",
+  "longitude": "14.36833666",
+  "latitude": "4.44773000"
+ },
+ {
+  "N": 153,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "Bocom",
+  "longitude": "14.36959197",
+  "latitude": "4.44742446"
+ },
+ {
+  "N": 154,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "asecna",
+  "longitude": "14.36313238",
+  "latitude": "4.47124789"
+ },
+ {
+  "N": 155,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "kambele 1",
+  "longitude": "14.39792333",
+  "latitude": "4.46255667"
+ },
+ {
+  "N": 156,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "trypano 2",
+  "longitude": "14.37457433",
+  "latitude": "4.45325570"
+ },
+ {
+  "N": 157,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "CDE 1",
+  "longitude": "14.34734730",
+  "latitude": "4.43109972"
+ },
+ {
+  "N": 158,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "inconnu",
+  "longitude": "14.30017053",
+  "latitude": "4.40503847"
+ },
+ {
+  "N": 159,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "bandongoue",
+  "longitude": "14.21157000",
+  "latitude": "4.40602167"
+ },
+ {
+  "N": 160,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "bandongoue",
+  "longitude": "14.21186667",
+  "latitude": "4.40713500"
+ },
+ {
+  "N": 161,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "dimako 2",
+  "longitude": "14.15927667",
+  "latitude": "4.36768000"
+ },
+ {
+  "N": 162,
+  "type_ocr": "CC",
+  "depart": "D31 BATOURI",
+  "nom": "bandongoue",
+  "longitude": "14.19140062",
+  "latitude": "4.39211420"
+ },
+ {
+  "N": 163,
+  "type_ocr": "PMR",
+  "depart": "D32 BELABO",
+  "nom": "Kombe",
+  "longitude": "13.32364500",
+  "latitude": "4.57519333"
+ },
+ {
+  "N": 164,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "mbeth",
+  "longitude": "13.01792333",
+  "latitude": "4.60768833"
+ },
+ {
+  "N": 165,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "andom",
+  "longitude": "13.23884850",
+  "latitude": "4.58406700"
+ },
+ {
+  "N": 166,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "diang ville",
+  "longitude": "13.34652295",
+  "latitude": "4.57776528"
+ },
+ {
+  "N": 167,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "cetic de diang",
+  "longitude": "13.35194421",
+  "latitude": "4.57691902"
+ },
+ {
+  "N": 168,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "Bouam ct minta",
+  "longitude": "13.43033000",
+  "latitude": "4.56350667"
+ },
+ {
+  "N": 169,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "afrique du sud",
+  "longitude": "13.28990697",
+  "latitude": "4.92794445"
+ },
+ {
+  "N": 170,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "Ebaka 2",
+  "longitude": "13.29458000",
+  "latitude": "4.93303500"
+ },
+ {
+  "N": 171,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "carriere",
+  "longitude": "13.29233837",
+  "latitude": "4.92549392"
+ },
+ {
+  "N": 172,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "scdp",
+  "longitude": "13.29054000",
+  "latitude": "4.92619667"
+ },
+ {
+  "N": 173,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "Poste pharmacie",
+  "longitude": "13.29219167",
+  "latitude": "4.91928667"
+ },
+ {
+  "N": 174,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "IACM ENTREE VILLE",
+  "longitude": "13.29438833",
+  "latitude": "4.91674333"
+ },
+ {
+  "N": 175,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "sous prefecture",
+  "longitude": "13.29373413",
+  "latitude": "4.91623615"
+ },
+ {
+  "N": 176,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "ndoumbi",
+  "longitude": "13.54244667",
+  "latitude": "4.56195500"
+ },
+ {
+  "N": 177,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "Entre minta",
+  "longitude": "12.83485017",
+  "latitude": "4.55759613"
+ },
+ {
+  "N": 178,
+  "type_ocr": "IACM",
+  "depart": "D32 BELABO",
+  "nom": "Ndoumbi",
+  "longitude": "13.58789056",
+  "latitude": "4.56364323"
+ },
+ {
+  "N": 179,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "12.92944355",
+  "latitude": "4.37455580"
+ },
+ {
+  "N": 180,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "12.96428442",
+  "latitude": "4.41445635"
+ },
+ {
+  "N": 181,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "vela",
+  "longitude": "12.82305167",
+  "latitude": "4.71467667"
+ },
+ {
+  "N": 182,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "12.92960605",
+  "latitude": "4.37306862"
+ },
+ {
+  "N": 183,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "vela 1",
+  "longitude": "12.78560981",
+  "latitude": "4.68723257"
+ },
+ {
+  "N": 184,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "vela 1",
+  "longitude": "12.79106608",
+  "latitude": "4.69281890"
+ },
+ {
+  "N": 185,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "minta centre",
+  "longitude": "12.83340833",
+  "latitude": "4.55816167"
+ },
+ {
+  "N": 186,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Cetic",
+  "longitude": "12.82393401",
+  "latitude": "4.56217764"
+ },
+ {
+  "N": 187,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ekak",
+  "longitude": "12.85707650",
+  "latitude": "4.54884433"
+ },
+ {
+  "N": 188,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "hotel de vill minta",
+  "longitude": "12.83291500",
+  "latitude": "4.56585833"
+ },
+ {
+  "N": 189,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ebangale",
+  "longitude": "12.91933819",
+  "latitude": "4.58162858"
+ },
+ {
+  "N": 190,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "nyo",
+  "longitude": "12.88634283",
+  "latitude": "4.56192463"
+ },
+ {
+  "N": 191,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "meba",
+  "longitude": "12.98129169",
+  "latitude": "4.61510212"
+ },
+ {
+  "N": 192,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "karban",
+  "longitude": "12.94196503",
+  "latitude": "4.58478325"
+ },
+ {
+  "N": 193,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "meba 1",
+  "longitude": "12.99278333",
+  "latitude": "4.61925000"
+ },
+ {
+  "N": 194,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "meba",
+  "longitude": "12.98719333",
+  "latitude": "4.62246833"
+ },
+ {
+  "N": 195,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "tsang",
+  "longitude": "13.00619316",
+  "latitude": "4.60841668"
+ },
+ {
+  "N": 196,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "endome",
+  "longitude": "13.03080179",
+  "latitude": "4.71645039"
+ },
+ {
+  "N": 197,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "mbeth",
+  "longitude": "13.01853500",
+  "latitude": "4.60766000"
+ },
+ {
+  "N": 198,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "mbeth depute",
+  "longitude": "13.03342074",
+  "latitude": "4.60692709"
+ },
+ {
+  "N": 199,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "mbeth",
+  "longitude": "13.01773917",
+  "latitude": "4.60768850"
+ },
+ {
+  "N": 200,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "nguen",
+  "longitude": "13.17264564",
+  "latitude": "4.59941850"
+ },
+ {
+  "N": 201,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "IHS Nguen",
+  "longitude": "13.13012417",
+  "latitude": "4.61004900"
+ },
+ {
+  "N": 202,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ekang",
+  "longitude": "13.18283667",
+  "latitude": "4.59890667"
+ },
+ {
+  "N": 203,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ep dom",
+  "longitude": "13.26057833",
+  "latitude": "4.58006167"
+ },
+ {
+  "N": 204,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "mbang 1",
+  "longitude": "13.33253330",
+  "latitude": "4.58579660"
+ },
+ {
+  "N": 205,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "route cetic de diang",
+  "longitude": "13.35119363",
+  "latitude": "4.57401417"
+ },
+ {
+  "N": 206,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "yanda",
+  "longitude": "13.40386629",
+  "latitude": "4.57126771"
+ },
+ {
+  "N": 207,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "kanda",
+  "longitude": "13.37751167",
+  "latitude": "4.57922833"
+ },
+ {
+  "N": 208,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "yanda 1",
+  "longitude": "13.42263667",
+  "latitude": "4.56403333"
+ },
+ {
+  "N": 209,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ebaka",
+  "longitude": "13.30638822",
+  "latitude": "4.94233063"
+ },
+ {
+  "N": 210,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "bouam",
+  "longitude": "13.43531167",
+  "latitude": "4.56899167"
+ },
+ {
+  "N": 211,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "auberge du porc",
+  "longitude": "13.29009677",
+  "latitude": "4.91847441"
+ },
+ {
+  "N": 212,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ndoumba kanga",
+  "longitude": "13.25117134",
+  "latitude": "4.89604786"
+ },
+ {
+  "N": 213,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "djangane mission",
+  "longitude": "13.35671000",
+  "latitude": "4.83652667"
+ },
+ {
+  "N": 214,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ndemba 1",
+  "longitude": "13.36321288",
+  "latitude": "4.81137689"
+ },
+ {
+  "N": 215,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "mtn djangane",
+  "longitude": "13.35775167",
+  "latitude": "4.83657167"
+ },
+ {
+  "N": 216,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ndemba 2",
+  "longitude": "13.40881678",
+  "latitude": "4.72543776"
+ },
+ {
+  "N": 217,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ndemba 1",
+  "longitude": "13.35955833",
+  "latitude": "4.80314667"
+ },
+ {
+  "N": 218,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "dongo",
+  "longitude": "13.40736200",
+  "latitude": "4.71165936"
+ },
+ {
+  "N": 219,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.46539833",
+  "latitude": "4.56618500"
+ },
+ {
+  "N": 220,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.43615015",
+  "latitude": "4.56982399"
+ },
+ {
+  "N": 221,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.49590895",
+  "latitude": "4.57099878"
+ },
+ {
+  "N": 222,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.48110844",
+  "latitude": "4.56954325"
+ },
+ {
+  "N": 223,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.51645935",
+  "latitude": "4.56579303"
+ },
+ {
+  "N": 224,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Scierie ngwekong",
+  "longitude": "13.50978333",
+  "latitude": "4.56923333"
+ },
+ {
+  "N": 225,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.48110613",
+  "latitude": "4.56953242"
+ },
+ {
+  "N": 226,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Ngelemendouka",
+  "longitude": "13.01868937",
+  "latitude": "4.60265882"
+ },
+ {
+  "N": 227,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.03282986",
+  "latitude": "4.55083535"
+ },
+ {
+  "N": 228,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.01011826",
+  "latitude": "4.56747848"
+ },
+ {
+  "N": 229,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.06861018",
+  "latitude": "4.51415590"
+ },
+ {
+  "N": 230,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.03845471",
+  "latitude": "4.54466388"
+ },
+ {
+  "N": 231,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.06770328",
+  "latitude": "4.49687041"
+ },
+ {
+  "N": 232,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "inconnu",
+  "longitude": "13.07058304",
+  "latitude": "4.50819572"
+ },
+ {
+  "N": 233,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Yayong",
+  "longitude": "12.84833963",
+  "latitude": "4.54858271"
+ },
+ {
+  "N": 234,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "NKOABANG 1 ARRONDISSEMENT NGOUMETANG",
+  "longitude": "12.96433667",
+  "latitude": "4.35508000"
+ },
+ {
+  "N": 235,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "VILLAGE BONIS",
+  "longitude": "13.61453833",
+  "latitude": "4.55229500"
+ },
+ {
+  "N": 236,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "OULDIKI 1",
+  "longitude": "13.07707667",
+  "latitude": "4.35844833"
+ },
+ {
+  "N": 237,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "OULDIKI 2",
+  "longitude": "13.05342000",
+  "latitude": "4.36331833"
+ },
+ {
+  "N": 238,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Bonis",
+  "longitude": "13.59006748",
+  "latitude": "4.56263742"
+ },
+ {
+  "N": 239,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "NDOUMETANG",
+  "longitude": "13.10370333",
+  "latitude": "4.34076833"
+ },
+ {
+  "N": 240,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Yanda III",
+  "longitude": "13.41752724",
+  "latitude": "4.59859968"
+ },
+ {
+  "N": 241,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ANDOM II mont Sina",
+  "longitude": "13.41629625",
+  "latitude": "4.64223442"
+ },
+ {
+  "N": 242,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "ANDOM II",
+  "longitude": "13.41497667",
+  "latitude": "4.62873167"
+ },
+ {
+  "N": 243,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "NIKA",
+  "longitude": "13.21576000",
+  "latitude": "4.59521500"
+ },
+ {
+  "N": 244,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "KOMBE",
+  "longitude": "13.32406500",
+  "latitude": "4.57464667"
+ },
+ {
+  "N": 245,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Djende 1",
+  "longitude": "13.00243833",
+  "latitude": "4.35915500"
+ },
+ {
+  "N": 246,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Badouma 1",
+  "longitude": "12.98937500",
+  "latitude": "4.36078333"
+ },
+ {
+  "N": 247,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Nbanghakou",
+  "longitude": "13.03596833",
+  "latitude": "4.35933833"
+ },
+ {
+  "N": 248,
+  "type_ocr": "CC",
+  "depart": "D32 BELABO",
+  "nom": "Medjime",
+  "longitude": "13.02001333",
+  "latitude": "4.35110667"
+ },
+ {
+  "N": 249,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "brigarde de doume",
+  "longitude": "13.47764167",
+  "latitude": "4.25190333"
+ },
+ {
+  "N": 250,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "doume centre",
+  "longitude": "13.45525833",
+  "latitude": "4.24024333"
+ },
+ {
+  "N": 251,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "mbama 2",
+  "longitude": "13.43608143",
+  "latitude": "4.24592971"
+ },
+ {
+  "N": 252,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "CENAJES",
+  "longitude": "13.69686036",
+  "latitude": "4.57810883"
+ },
+ {
+  "N": 253,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Stade 1",
+  "longitude": "13.68198167",
+  "latitude": "4.58681667"
+ },
+ {
+  "N": 254,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Face total",
+  "longitude": "13.72173333",
+  "latitude": "4.58399500"
+ },
+ {
+  "N": 255,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.69172333",
+  "latitude": "4.58756000"
+ },
+ {
+  "N": 256,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "MOKOLO 2",
+  "longitude": "13.68098690",
+  "latitude": "4.58933523"
+ },
+ {
+  "N": 257,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "CENTRALE BERTOUA",
+  "longitude": "13.67309833",
+  "latitude": "4.61368000"
+ },
+ {
+  "N": 258,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "YADEME",
+  "longitude": "13.69053120",
+  "latitude": "4.57738564"
+ },
+ {
+  "N": 259,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "ITALIE",
+  "longitude": "13.69630000",
+  "latitude": "4.57729000"
+ },
+ {
+  "N": 260,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Derivation Aeroport",
+  "longitude": "13.70870167",
+  "latitude": "4.57829167"
+ },
+ {
+  "N": 261,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "CARF LYCeE BILINGUE",
+  "longitude": "13.70187500",
+  "latitude": "4.57848167"
+ },
+ {
+  "N": 262,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Petit marche",
+  "longitude": "13.70956667",
+  "latitude": "4.57751167"
+ },
+ {
+  "N": 263,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "DERVT TOTALE  KANO",
+  "longitude": "13.71817000",
+  "latitude": "4.58264667"
+ },
+ {
+  "N": 264,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "entre lycee mokolo 4",
+  "longitude": "13.67649667",
+  "latitude": "4.60709167"
+ },
+ {
+  "N": 265,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "comissariat mokolo 4",
+  "longitude": "13.67989333",
+  "latitude": "4.59799833"
+ },
+ {
+  "N": 266,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "stade 2",
+  "longitude": "13.68315184",
+  "latitude": "4.58617157"
+ },
+ {
+  "N": 267,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "cetic bertoua",
+  "longitude": "13.68731849",
+  "latitude": "4.58628973"
+ },
+ {
+  "N": 268,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "camtel mokolo 1",
+  "longitude": "13.68394165",
+  "latitude": "4.58524904"
+ },
+ {
+  "N": 269,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Travaux publics",
+  "longitude": "13.68775333",
+  "latitude": "4.58768333"
+ },
+ {
+  "N": 270,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "presidence",
+  "longitude": "13.68609722",
+  "latitude": "4.58231742"
+ },
+ {
+  "N": 271,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "HOLY GHOST",
+  "longitude": "13.68621197",
+  "latitude": "4.58312231"
+ },
+ {
+  "N": 272,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "ekombitier meteo",
+  "longitude": "13.68977620",
+  "latitude": "4.58182830"
+ },
+ {
+  "N": 273,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "presidence",
+  "longitude": "13.68627511",
+  "latitude": "4.58225196"
+ },
+ {
+  "N": 274,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "camwater",
+  "longitude": "13.69222861",
+  "latitude": "4.57808262"
+ },
+ {
+  "N": 275,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Ngaikada",
+  "longitude": "13.70272035",
+  "latitude": "4.56787463"
+ },
+ {
+  "N": 276,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Derrivation tidamba",
+  "longitude": "13.69767167",
+  "latitude": "4.57851000"
+ },
+ {
+  "N": 277,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "irad",
+  "longitude": "13.71094879",
+  "latitude": "4.58040032"
+ },
+ {
+  "N": 278,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "mere poule",
+  "longitude": "13.69959833",
+  "latitude": "4.57491167"
+ },
+ {
+  "N": 279,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "KANO",
+  "longitude": "13.71154326",
+  "latitude": "4.58043516"
+ },
+ {
+  "N": 280,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "hotel fanga",
+  "longitude": "13.67921667",
+  "latitude": "4.58494000"
+ },
+ {
+  "N": 281,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "moisons sic",
+  "longitude": "13.67290456",
+  "latitude": "4.58327991"
+ },
+ {
+  "N": 282,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "place des fetes",
+  "longitude": "13.67670786",
+  "latitude": "4.57535450"
+ },
+ {
+  "N": 283,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "Moutchouboum",
+  "longitude": "13.23940833",
+  "latitude": "4.11429333"
+ },
+ {
+  "N": 284,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "Moutchouboum",
+  "longitude": "13.24170167",
+  "latitude": "4.11495833"
+ },
+ {
+  "N": 285,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "Mampang",
+  "longitude": "13.17839401",
+  "latitude": "4.00445747"
+ },
+ {
+  "N": 286,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "Motcheboum ligne",
+  "longitude": "13.23923833",
+  "latitude": "4.11442333"
+ },
+ {
+  "N": 287,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "Mampang",
+  "longitude": "13.17868167",
+  "latitude": "4.00265833"
+ },
+ {
+  "N": 288,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "Mampang",
+  "longitude": "13.17843215",
+  "latitude": "4.00400752"
+ },
+ {
+  "N": 289,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "Derivation Abong Ndoum",
+  "longitude": "13.15710167",
+  "latitude": "3.99095667"
+ },
+ {
+  "N": 290,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "DIMAKO",
+  "longitude": "13.57783205",
+  "latitude": "4.37785574"
+ },
+ {
+  "N": 291,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "DIMAKO DELEGATION PROVINCIALE E",
+  "longitude": "13.57268000",
+  "latitude": "4.38225333"
+ },
+ {
+  "N": 292,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "DIMAKO MAIRIE",
+  "longitude": "13.57763167",
+  "latitude": "4.38172333"
+ },
+ {
+  "N": 293,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "dimako",
+  "longitude": "13.57826500",
+  "latitude": "4.38451000"
+ },
+ {
+  "N": 294,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "dimako",
+  "longitude": "13.57474667",
+  "latitude": "4.37742667"
+ },
+ {
+  "N": 295,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "koume",
+  "longitude": "13.63481328",
+  "latitude": "4.55655839"
+ },
+ {
+  "N": 296,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "bonis",
+  "longitude": "13.62178333",
+  "latitude": "4.55131333"
+ },
+ {
+  "N": 297,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "bonis",
+  "longitude": "13.61202167",
+  "latitude": "4.53101833"
+ },
+ {
+  "N": 298,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Entre marche moderne",
+  "longitude": "13.68025833",
+  "latitude": "4.59254000"
+ },
+ {
+  "N": 299,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Stade 3",
+  "longitude": "13.68152000",
+  "latitude": "4.58605500"
+ },
+ {
+  "N": 300,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Kpoklota village",
+  "longitude": "13.69745333",
+  "latitude": "4.59018500"
+ },
+ {
+  "N": 301,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "NGAIKADA 3",
+  "longitude": "13.70701466",
+  "latitude": "4.56481506"
+ },
+ {
+  "N": 302,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.70661549",
+  "latitude": "4.56510265"
+ },
+ {
+  "N": 303,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Monou chez le commissaire",
+  "longitude": "13.69444572",
+  "latitude": "4.56637885"
+ },
+ {
+  "N": 304,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "PODCAO2 2",
+  "longitude": "13.69731333",
+  "latitude": "4.56112667"
+ },
+ {
+  "N": 305,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Derivation Ntidamba apres le lac",
+  "longitude": "13.69871500",
+  "latitude": "4.58067833"
+ },
+ {
+  "N": 306,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Derivation Mere poule",
+  "longitude": "13.69986333",
+  "latitude": "4.57795333"
+ },
+ {
+  "N": 307,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "NTOUNGOU 2",
+  "longitude": "13.72070167",
+  "latitude": "4.56802000"
+ },
+ {
+  "N": 308,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "base aerienne 2",
+  "longitude": "13.73201667",
+  "latitude": "4.55576333"
+ },
+ {
+  "N": 309,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Derivation base aerienne",
+  "longitude": "13.72151500",
+  "latitude": "4.56718667"
+ },
+ {
+  "N": 310,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Kano 2",
+  "longitude": "13.72569197",
+  "latitude": "4.58625149"
+ },
+ {
+  "N": 311,
+  "type_ocr": "IACM",
+  "depart": "D11 BERTOUA",
+  "nom": "Mbesso NGARRI",
+  "longitude": "13.72513500",
+  "latitude": "4.58461167"
+ },
+ {
+  "N": 312,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "Derivation Eniet bonis",
+  "longitude": "13.61898833",
+  "latitude": "4.54427833"
+ },
+ {
+  "N": 313,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "Derivation CAMWATER DIMAKO",
+  "longitude": "13.57157167",
+  "latitude": "4.38277333"
+ },
+ {
+  "N": 314,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "Maire TONGRELO",
+  "longitude": "13.52281667",
+  "latitude": "4.34606000"
+ },
+ {
+  "N": 315,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "DJANDJA",
+  "longitude": "13.51169667",
+  "latitude": "4.29195333"
+ },
+ {
+  "N": 316,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "BENT",
+  "longitude": "13.32922894",
+  "latitude": "4.17561200"
+ },
+ {
+  "N": 317,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "Doume centre",
+  "longitude": "13.44202906",
+  "latitude": "4.24513833"
+ },
+ {
+  "N": 318,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "motchenboum",
+  "longitude": "13.23967304",
+  "latitude": "4.11472577"
+ },
+ {
+  "N": 319,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "djaglassi",
+  "longitude": "13.27741893",
+  "latitude": "4.14111969"
+ },
+ {
+  "N": 320,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "abong bang",
+  "longitude": "13.17938717",
+  "latitude": "3.99914067"
+ },
+ {
+  "N": 321,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "ep abong bang",
+  "longitude": "13.18183167",
+  "latitude": "3.98538000"
+ },
+ {
+  "N": 322,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "camwater",
+  "longitude": "13.18653497",
+  "latitude": "3.98573866"
+ },
+ {
+  "N": 323,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "nyon",
+  "longitude": "13.18612333",
+  "latitude": "3.98536833"
+ },
+ {
+  "N": 324,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "lycee classique",
+  "longitude": "13.20183702",
+  "latitude": "3.97065866"
+ },
+ {
+  "N": 325,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "camtel",
+  "longitude": "13.18826455",
+  "latitude": "3.98240982"
+ },
+ {
+  "N": 326,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "prison",
+  "longitude": "13.18756917",
+  "latitude": "3.98206183"
+ },
+ {
+  "N": 327,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "lycee bilingue",
+  "longitude": "13.20177200",
+  "latitude": "3.97025129"
+ },
+ {
+  "N": 328,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "quatier bamileke",
+  "longitude": "13.17620333",
+  "latitude": "3.98584167"
+ },
+ {
+  "N": 329,
+  "type_ocr": "IACM",
+  "depart": "D31 ABONG MBANG",
+  "nom": "centre ville dans une boite de nuit",
+  "longitude": "13.17479000",
+  "latitude": "3.98885333"
+ },
+ {
+  "N": 330,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "Derivation Ayene",
+  "longitude": "13.45210869",
+  "latitude": "4.23374890"
+ },
+ {
+  "N": 331,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "Entre ville Abong Mbang",
+  "longitude": "13.45617123",
+  "latitude": "4.23138327"
+ },
+ {
+  "N": 332,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "Sibita",
+  "longitude": "13.43729205",
+  "latitude": "4.22277575"
+ },
+ {
+  "N": 333,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.60850023",
+  "latitude": "4.42901136"
+ },
+ {
+  "N": 334,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "tounedo",
+  "longitude": "13.53078667",
+  "latitude": "4.35410167"
+ },
+ {
+  "N": 335,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "beul",
+  "longitude": "13.55859167",
+  "latitude": "4.37849167"
+ },
+ {
+  "N": 336,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "loumbou",
+  "longitude": "13.50293970",
+  "latitude": "4.25966616"
+ },
+ {
+  "N": 337,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "loumbou",
+  "longitude": "13.50222072",
+  "latitude": "4.25894511"
+ },
+ {
+  "N": 338,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "goumbegeron",
+  "longitude": "13.52657333",
+  "latitude": "4.24875833"
+ },
+ {
+  "N": 339,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "kempong",
+  "longitude": "13.51543333",
+  "latitude": "4.25635833"
+ },
+ {
+  "N": 340,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "grand pol",
+  "longitude": "13.60021333",
+  "latitude": "4.21337167"
+ },
+ {
+  "N": 341,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "petit pol",
+  "longitude": "13.56072667",
+  "latitude": "4.23540500"
+ },
+ {
+  "N": 342,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "kobila",
+  "longitude": "13.46983500",
+  "latitude": "4.24646000"
+ },
+ {
+  "N": 343,
+  "type_ocr": "IACM",
+  "depart": "A32 BERTOUA",
+  "nom": "mission caolique doume",
+  "longitude": "13.44201337",
+  "latitude": "4.24373433"
+ },
+ {
+  "N": 344,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "paki",
+  "longitude": "13.42012335",
+  "latitude": "4.21821368"
+ },
+ {
+  "N": 345,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "grand paki",
+  "longitude": "13.39986333",
+  "latitude": "4.20764833"
+ },
+ {
+  "N": 346,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "grand paki",
+  "longitude": "13.40707913",
+  "latitude": "4.21257446"
+ },
+ {
+  "N": 347,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.66823873",
+  "latitude": "4.57420396"
+ },
+ {
+  "N": 348,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.67247680",
+  "latitude": "4.57430616"
+ },
+ {
+  "N": 349,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "KPOKOLOTA CHEFFERIE",
+  "longitude": "13.69664333",
+  "latitude": "4.58979667"
+ },
+ {
+  "N": 350,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "POST CENAJES",
+  "longitude": "13.69632192",
+  "latitude": "4.57700422"
+ },
+ {
+  "N": 351,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "MAISON SPIRITAINE",
+  "longitude": "13.71801167",
+  "latitude": "4.57364667"
+ },
+ {
+  "N": 352,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "POST BLESSING KANO",
+  "longitude": "13.72675167",
+  "latitude": "4.58567167"
+ },
+ {
+  "N": 353,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "hotel mansa",
+  "longitude": "13.68182718",
+  "latitude": "4.58759802"
+ },
+ {
+  "N": 354,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "enieg",
+  "longitude": "13.69043167",
+  "latitude": "4.58484000"
+ },
+ {
+  "N": 355,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "pkolta",
+  "longitude": "13.68798868",
+  "latitude": "4.58465466"
+ },
+ {
+  "N": 356,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "yademe",
+  "longitude": "13.69063333",
+  "latitude": "4.57661500"
+ },
+ {
+  "N": 357,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "tindamba 2",
+  "longitude": "13.69859318",
+  "latitude": "4.58019474"
+ },
+ {
+  "N": 358,
+  "type_ocr": "CC",
+  "depart": "D31 ABONG MBANG",
+  "nom": "Derivation Mbole et CRTV",
+  "longitude": "13.18481527",
+  "latitude": "3.97945427"
+ },
+ {
+  "N": 359,
+  "type_ocr": "CC",
+  "depart": "D31 ABONG MBANG",
+  "nom": "inconnu",
+  "longitude": "13.18467425",
+  "latitude": "3.97735740"
+ },
+ {
+  "N": 360,
+  "type_ocr": "CC",
+  "depart": "D31 ABONG MBANG",
+  "nom": "Derivation Mbole et CRTV",
+  "longitude": "13.17934642",
+  "latitude": "3.98623335"
+ },
+ {
+  "N": 361,
+  "type_ocr": "CC",
+  "depart": "D31 ABONG MBANG",
+  "nom": "inconnu",
+  "longitude": "13.17970080",
+  "latitude": "3.99959975"
+ },
+ {
+  "N": 362,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.17810866",
+  "latitude": "4.01050510"
+ },
+ {
+  "N": 363,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.12669545",
+  "latitude": "3.97595774"
+ },
+ {
+  "N": 364,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.12957387",
+  "latitude": "3.97720965"
+ },
+ {
+  "N": 365,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.11548275",
+  "latitude": "3.99094142"
+ },
+ {
+  "N": 366,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.11838476",
+  "latitude": "3.95784594"
+ },
+ {
+  "N": 367,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.10293709",
+  "latitude": "4.01245924"
+ },
+ {
+  "N": 368,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "BINDANGNA",
+  "longitude": "13.08907667",
+  "latitude": "4.01775500"
+ },
+ {
+  "N": 369,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "DJANJA",
+  "longitude": "13.51075833",
+  "latitude": "4.30194333"
+ },
+ {
+  "N": 370,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "BAGOFIT",
+  "longitude": "13.10303314",
+  "latitude": "4.01250446"
+ },
+ {
+  "N": 371,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "BINDANGNA",
+  "longitude": "13.10272500",
+  "latitude": "4.01333000"
+ },
+ {
+  "N": 372,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "longtimbi",
+  "longitude": "13.61831667",
+  "latitude": "4.44446000"
+ },
+ {
+  "N": 373,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "kaigama",
+  "longitude": "13.62230500",
+  "latitude": "4.47296000"
+ },
+ {
+  "N": 374,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "dimako",
+  "longitude": "13.58559500",
+  "latitude": "4.38125333"
+ },
+ {
+  "N": 375,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "bonis",
+  "longitude": "13.62756167",
+  "latitude": "4.55378833"
+ },
+ {
+  "N": 376,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "bonis",
+  "longitude": "13.62107167",
+  "latitude": "4.55068000"
+ },
+ {
+  "N": 377,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "kaigama",
+  "longitude": "13.62273828",
+  "latitude": "4.45923186"
+ },
+ {
+  "N": 378,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "bonis",
+  "longitude": "13.61397639",
+  "latitude": "4.53363699"
+ },
+ {
+  "N": 379,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "Derrivation camtel",
+  "longitude": "13.68426500",
+  "latitude": "4.58607500"
+ },
+ {
+  "N": 380,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "Radio emission",
+  "longitude": "13.68753982",
+  "latitude": "4.58799803"
+ },
+ {
+  "N": 381,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "Monou",
+  "longitude": "13.69765000",
+  "latitude": "4.56107833"
+ },
+ {
+  "N": 382,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "Monou chez le commissaire",
+  "longitude": "13.69422353",
+  "latitude": "4.56649125"
+ },
+ {
+  "N": 383,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "Carrefour ENIA",
+  "longitude": "13.70686833",
+  "latitude": "4.57944000"
+ },
+ {
+  "N": 384,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "NTOUNGOU 2",
+  "longitude": "13.72027000",
+  "latitude": "4.56811000"
+ },
+ {
+  "N": 385,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "base aerienne 1",
+  "longitude": "13.73161077",
+  "latitude": "4.55638461"
+ },
+ {
+  "N": 386,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "base aerienne 2",
+  "longitude": "13.73175500",
+  "latitude": "4.54761667"
+ },
+ {
+  "N": 387,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.61744781",
+  "latitude": "4.54526996"
+ },
+ {
+  "N": 388,
+  "type_ocr": "CC",
+  "depart": "D11 BERTOUA",
+  "nom": "Kano 2",
+  "longitude": "13.72578451",
+  "latitude": "4.58848578"
+ },
+ {
+  "N": 389,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "Derivation source Dimako",
+  "longitude": "13.57679833",
+  "latitude": "4.38164833"
+ },
+ {
+  "N": 390,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "Maison de la femme Dimako",
+  "longitude": "13.56795000",
+  "latitude": "4.37753500"
+ },
+ {
+  "N": 391,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "Maire TONGRELO",
+  "longitude": "13.50750833",
+  "latitude": "4.31235167"
+ },
+ {
+  "N": 392,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "Goumbegeron",
+  "longitude": "13.52694833",
+  "latitude": "4.24889667"
+ },
+ {
+  "N": 393,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "nkoum",
+  "longitude": "13.29493333",
+  "latitude": "4.16812833"
+ },
+ {
+  "N": 394,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "bent",
+  "longitude": "13.33757152",
+  "latitude": "4.17509272"
+ },
+ {
+  "N": 395,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "petit djende 2",
+  "longitude": "13.21474732",
+  "latitude": "4.06837021"
+ },
+ {
+  "N": 396,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "djende 2",
+  "longitude": "13.21730000",
+  "latitude": "4.07254333"
+ },
+ {
+  "N": 397,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "mampang village",
+  "longitude": "13.17794713",
+  "latitude": "4.01034163"
+ },
+ {
+  "N": 398,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "mampang",
+  "longitude": "13.17819500",
+  "latitude": "4.01059333"
+ },
+ {
+  "N": 399,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "mampang Village",
+  "longitude": "13.17303127",
+  "latitude": "4.02692788"
+ },
+ {
+  "N": 400,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "mampang village",
+  "longitude": "13.17782167",
+  "latitude": "4.01102783"
+ },
+ {
+  "N": 401,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "bagoloul",
+  "longitude": "13.13195846",
+  "latitude": "4.06393704"
+ },
+ {
+  "N": 402,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "bagoloul",
+  "longitude": "13.13237672",
+  "latitude": "4.06369145"
+ },
+ {
+  "N": 403,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "akom",
+  "longitude": "13.09626000",
+  "latitude": "4.07885000"
+ },
+ {
+  "N": 404,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "tchoukoundji",
+  "longitude": "13.11033833",
+  "latitude": "4.07647333"
+ },
+ {
+  "N": 405,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "mpoudou",
+  "longitude": "13.05409333",
+  "latitude": "4.10795833"
+ },
+ {
+  "N": 406,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "abonis",
+  "longitude": "13.06366333",
+  "latitude": "4.10146000"
+ },
+ {
+  "N": 407,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "bagbessE 2",
+  "longitude": "13.03415613",
+  "latitude": "4.09920579"
+ },
+ {
+  "N": 408,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "mpalampouam",
+  "longitude": "13.04077000",
+  "latitude": "4.10304833"
+ },
+ {
+  "N": 409,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "angossas",
+  "longitude": "12.98399000",
+  "latitude": "4.08568833"
+ },
+ {
+  "N": 410,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "caffefour engossas",
+  "longitude": "12.98848667",
+  "latitude": "4.07618667"
+ },
+ {
+  "N": 411,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "cfao",
+  "longitude": "13.17989855",
+  "latitude": "3.99905641"
+ },
+ {
+  "N": 412,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "abong bang centre",
+  "longitude": "13.17430261",
+  "latitude": "3.99021115"
+ },
+ {
+  "N": 413,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "antenne orange abong bang",
+  "longitude": "13.17969181",
+  "latitude": "3.99958316"
+ },
+ {
+  "N": 414,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "ETA",
+  "longitude": "13.18491500",
+  "latitude": "3.97655500"
+ },
+ {
+  "N": 415,
+  "type_ocr": "CC",
+  "depart": "D31 ABONG MBANG",
+  "nom": "mairie",
+  "longitude": "13.17630057",
+  "latitude": "3.98006943"
+ },
+ {
+  "N": 416,
+  "type_ocr": "CC",
+  "depart": "D31 ABONG MBANG",
+  "nom": "mbole",
+  "longitude": "13.18051236",
+  "latitude": "3.98033234"
+ },
+ {
+  "N": 417,
+  "type_ocr": "CC",
+  "depart": "D31 ABONG MBANG",
+  "nom": "abo doum",
+  "longitude": "13.15482500",
+  "latitude": "3.99091000"
+ },
+ {
+  "N": 418,
+  "type_ocr": "CC",
+  "depart": "D31 ABONG MBANG",
+  "nom": "souris",
+  "longitude": "13.17152344",
+  "latitude": "3.98758221"
+ },
+ {
+  "N": 419,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "nkol mvolan",
+  "longitude": "13.13003000",
+  "latitude": "3.97749000"
+ },
+ {
+  "N": 420,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "anzie",
+  "longitude": "13.13996167",
+  "latitude": "3.97950333"
+ },
+ {
+  "N": 421,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "djenassoume",
+  "longitude": "13.11838550",
+  "latitude": "3.95780733"
+ },
+ {
+  "N": 422,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "nkol mvolan",
+  "longitude": "13.12961300",
+  "latitude": "3.97723483"
+ },
+ {
+  "N": 423,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "adouma",
+  "longitude": "13.11517133",
+  "latitude": "4.00134050"
+ },
+ {
+  "N": 424,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "nkol mvolan",
+  "longitude": "13.12667850",
+  "latitude": "3.97596753"
+ },
+ {
+  "N": 425,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.57880799",
+  "latitude": "4.22432599"
+ },
+ {
+  "N": 426,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.45678515",
+  "latitude": "4.23103826"
+ },
+ {
+  "N": 427,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.48250189",
+  "latitude": "4.25291042"
+ },
+ {
+  "N": 428,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.32263033",
+  "latitude": "4.17044290"
+ },
+ {
+  "N": 429,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.35588733",
+  "latitude": "4.19444084"
+ },
+ {
+  "N": 430,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "Mono",
+  "longitude": "13.29214627",
+  "latitude": "4.16537842"
+ },
+ {
+  "N": 431,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.29277685",
+  "latitude": "4.16624394"
+ },
+ {
+  "N": 432,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.27160526",
+  "latitude": "4.12749633"
+ },
+ {
+  "N": 433,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.28333720",
+  "latitude": "4.15536385"
+ },
+ {
+  "N": 434,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.26719630",
+  "latitude": "4.11727450"
+ },
+ {
+  "N": 435,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.09626180",
+  "latitude": "4.07885597"
+ },
+ {
+  "N": 436,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.11024342",
+  "latitude": "4.07634315"
+ },
+ {
+  "N": 437,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.05411076",
+  "latitude": "4.10797689"
+ },
+ {
+  "N": 438,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.06374823",
+  "latitude": "4.10164990"
+ },
+ {
+  "N": 439,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "12.98843615",
+  "latitude": "4.07609648"
+ },
+ {
+  "N": 440,
+  "type_ocr": "CC",
+  "depart": "A32 BERTOUA",
+  "nom": "inconnu",
+  "longitude": "13.03411993",
+  "latitude": "4.09917027"
+ },
+ {
+  "N": 441,
+  "type_ocr": "IACM",
+  "depart": "D31 BATOURI",
+  "nom": "Centrale Thermique",
+  "longitude": "13.67441605",
+  "latitude": "4.61494895"
+ }
+]

@@ -1,0 +1,143 @@
+import { View, Text, ScrollView, TouchableOpacity, ToastAndroid } from 'react-native'
+import CustomInput from '../../../../components/CustomInput';
+import CustomSelect from '../../../../components/CustomSelect';
+import { departs } from '../../../../datas/labels'
+import { useState } from 'react';
+import AsyncStorage from '@react-native-async-storage/async-storage'
+import { useLocalSearchParams, useNavigation } from 'expo-router';
+
+export default function Abattage() {
+  const [depart, setDepart] = useState(null)
+  const [base, setBase] = useState(null)
+  const [premier, setPremier] = useState(null)
+  const [deuxieme, setDeuxieme] = useState(null)
+  const [troisieme, setTroisieme] = useState(null)
+  const [quatrieme, setQuatrieme] = useState(null)
+  const [observations, setObservations] = useState(null)
+
+  const navigation = useNavigation()
+  const params = useLocalSearchParams()
+
+  const showToast = () => {
+    ToastAndroid.show("Sauvegarde en local avec succès", ToastAndroid.SHORT);
+  }
+
+  const SaveInStore = async () => {
+    if (depart == null || depart == "Choix d'un depart" || depart == "") {
+      alert("Veuillez choisir un depart")
+      return
+    } else {
+      const toSave = {
+        depart,
+        D30: parseInt(base),
+        D30_50: parseInt(premier),
+        D50_80: parseInt(deuxieme),
+        D80_100: parseInt(troisieme),
+        D100: parseInt(quatrieme),
+        observations,
+        latitude: params.lat,
+        longitude: params.long
+      }
+
+      const listKeyStore = await AsyncStorage.getAllKeys();
+
+      if (listKeyStore.includes("abattage")) {
+        const dataStored = await AsyncStorage.getItem('abattage')
+        let dataTransform = JSON.parse(dataStored)
+        dataTransform.push(toSave)
+        await AsyncStorage.removeItem('abattage')
+        await AsyncStorage.setItem('abattage', JSON.stringify(dataTransform))
+      } else {
+        const firstData = [toSave]
+        await AsyncStorage.setItem('abattage', JSON.stringify(firstData))
+      }
+      showToast();
+      navigation.goBack();
+    }
+  }
+
+
+  return (
+    <View style={{ flex: 1, paddingHorizontal: 8 }}>
+      <Text style={{ textAlign: "center", fontWeight: "bold", fontSize: 18, color: "#1e8449", marginVertical: 10 }}>Remplir les quantités</Text>
+      <ScrollView
+        showsVerticalScrollIndicator={false}
+        contentContainerStyle={{
+          paddingHorizontal: 4,
+          paddingBottom: 10,
+          rowGap: 10
+        }}
+      >
+        <CustomSelect
+          label="Depart MT"
+          datas={departs}
+          placeholder="Choix d'un depart"
+          handleSelect={setDepart}
+          labelColor='#1e8449'
+          second='second'
+        />
+        <CustomInput
+          label="D = 30 "
+          placeholder={"."}
+          labelColor="#1e8449"
+          handleInput={setBase}
+          type={"numeric"}
+          val
+        />
+        <CustomInput
+          label="30 < D <= 50"
+          placeholder={"."}
+          labelColor="#1e8449"
+          handleInput={setPremier}
+          type={"numeric"}
+          val
+        />
+        <CustomInput
+          label="50 < D <= 80"
+          placeholder={"."}
+          labelColor="#1e8449"
+          handleInput={setDeuxieme}
+          type={"numeric"}
+          val
+        />
+        <CustomInput
+          label="80 < D <= 100"
+          placeholder={"."}
+          labelColor="#1e8449"
+          handleInput={setTroisieme}
+          type={"numeric"}
+          val
+        />
+        <CustomInput
+          label="D > 100"
+          placeholder={"."}
+          labelColor="#1e8449"
+          handleInput={setQuatrieme}
+          type={"numeric"}
+          val
+        />
+        <CustomInput
+          label="Observations"
+          placeholder={"..."}
+          h={80}
+          multiline={true}
+          number={5}
+          labelColor="#1e8449"
+          handleInput={setObservations}
+          val
+        />
+        <View style={{
+          justifyContent: "center",
+          alignItems: "center"
+        }}>
+          <TouchableOpacity
+            style={{ width: "60%", backgroundColor: "#1e8449", justifyContent: "center", alignItems: 'center', padding: 15, borderRadius: 5, elevation: 5 }}
+            onPress={SaveInStore}
+          >
+            <Text style={{ color: "#ffffff", fontSize: 16, fontWeight: 'bold' }}>Valider</Text>
+          </TouchableOpacity>
+        </View>
+      </ScrollView>
+    </View>
+  )
+}
