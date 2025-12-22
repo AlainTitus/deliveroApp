@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "collected-data",
-    "slug": "collected-data",
+    "name": "delivero-app",
+    "slug": "delivero-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/log.png",
