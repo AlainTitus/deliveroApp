@@ -32,6 +32,7 @@
     "base64-arraybuffer": "^1.0.2",
     "base64-arraybuffer-es6": "^3.1.0",
     "cliui": "7.0.4",
+    "deprecated-react-native-prop-types": "^2.3.0",
     "expo": "~54.0.30",
     "expo-blur": "~15.0.8",
     "expo-camera": "~17.0.10",
