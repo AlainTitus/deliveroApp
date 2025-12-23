@@ -79,7 +79,11 @@
     "react-native-worklets": "0.5.1",
     "uuid": "^11.1.0",
     "xlsx": "^0.18.5",
-    "zustand": "^5.0.4"
+    "zustand": "^5.0.4",
+    "react-native-vector-icons": "10.3.0",
+    "yargs": "16.2.0",
+    "cliui": "7.0.4",
+    "yargs-parser": "20.2.9"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
