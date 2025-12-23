@@ -96,6 +96,8 @@
   "overrides": {
     "@rneui/themed": {
       "@rneui/base": "4.0.0-rc.8"
-    }
+    },
+    "react": "19.1.0",  
+    "react-dom": "19.1.0"
   }
 }
