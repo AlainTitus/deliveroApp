@@ -8,7 +8,6 @@ import Octicons from '@expo/vector-icons/Octicons';
 import { Camera } from 'expo-camera'
 import * as MediaLibrary from 'expo-media-library';
 import * as ImagePicker from 'expo-image-picker'
-import { collection, addDoc } from "firebase/firestore";
 import { useRouter, useLocalSearchParams } from 'expo-router'
 import { supabase } from '../../../../utils/supabase'
 import AsyncStorage from '@react-native-async-storage/async-storage'
